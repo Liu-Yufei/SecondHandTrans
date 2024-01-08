@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="javaweb_CourseDesign" />
         <module name="SchoolCampusUsedBack-master" />
         <module name="CourseDesionSpring" />
-        <module name="javaweb_CourseDesign" />
+        <module name="management" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

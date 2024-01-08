@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="management:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/management_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="management" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.5" />
+          <element id="library" level="project" name="Maven: com.mysql:mysql-connector-j:8.0.33" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.21.9" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.12" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.5.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.5.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.5.3" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.27" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.27" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.27" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.27" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.27" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.27" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.3.27" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.3.27" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="management/web/Web" />
+    </root>
+  </artifact>
+</component>
