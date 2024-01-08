@@ -1,15 +1,9 @@
 # 大学二手交易平台
-## 说明
-本项目是为了《软件开发实践》课程而开发的，耗费了较多心血，特此上传，供学弟学妹们参考。
-## 参考
-https://github.com/jdassd/SchoolCampusUsed
+## 文件说明
+codes/management:管理端代码
 
-https://github.com/jdassd/SchoolCampusUsedBack
+codes/client:客户端代码
 
-https://github.com/12Jack21/CampusTransaction/tree/master/Frontend/pages
+image-for-serve:用于客户端中服务器的照片及映射服务器的脚本
 
-https://github.com/izcat/SecondHandTransactions
-
-https://github.com/Patrick1S/SecondHandTransaction
-
-https://github.com/Startligh/second-hand-transactions
+codes/20240107.sql:用于初始化数据库

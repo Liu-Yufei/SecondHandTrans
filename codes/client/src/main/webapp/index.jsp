@@ -1,7 +1,7 @@
 <%--
   Created by IntelliJ IDEA.
-  User: jdassd@163.com
-  Date: 2019/12/18
+  User: phenanthra@stu.xmu.edu.cn
+  Date: 2024/01/08
   Time: 9:45
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" isELIgnored="false" %>
@@ -11,6 +11,5 @@
     <title>Spring已经运行</title>
 </head>
 <body>
-
 </body>
 </html>
