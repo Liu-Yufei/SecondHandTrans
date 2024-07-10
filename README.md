@@ -15,3 +15,9 @@ codes/client:客户端代码
 codes/image-for-serve:用于客户端中服务器的照片及映射服务器的脚本
 
 codes/20240107.sql:用于初始化数据库
+
+## 参考架构
+
+前台：https://github.com/jdassd/SchoolCampusUsed
+
+后台：https://github.com/jdassd/SchoolCampusUsedBack
